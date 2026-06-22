@@ -84,7 +84,7 @@ Follow these instructions to run the application locally on your machine.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/heyai-image-generator.git
+git clone https://github.com/rd1924678-create/Ai-image-generator.git
 cd heyai-image-generator
 ```
 
